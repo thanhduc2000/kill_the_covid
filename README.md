@@ -14,7 +14,7 @@ To clone this repository, please use the following command on Git bash:
 
 To be updated with the newest changes, you can use:
 
-`git pull origin master`
+`git pull origin main`
 
 To be able to compile the program, you can try to open a C++ IDE or a terminal by trying to access the src folder and use:
 
